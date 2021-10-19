@@ -23,3 +23,5 @@ flutter run
 ```
 7) Thats it!! 
 
+# License
+<a href="https://github.com/Afroz-Shaikh/happify-app/blob/master/LICENSE">MIT License</a>
