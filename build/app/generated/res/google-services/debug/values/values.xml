@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">79690356665-akul68qr4oeff4choc0afjtfacbhi510.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">79690356665</string>
+    <string name="google_api_key" translatable="false">AIzaSyBcrjfxVbJmVsv8F884yY9XtIgb-UW5X94</string>
+    <string name="google_app_id" translatable="false">1:79690356665:android:6824e0a1051d06d7904868</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcrjfxVbJmVsv8F884yY9XtIgb-UW5X94</string>
+    <string name="google_storage_bucket" translatable="false">happify-app.appspot.com</string>
+    <string name="project_id" translatable="false">happify-app</string>
+</resources>
