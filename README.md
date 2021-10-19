@@ -1,16 +1,25 @@
 # happify_app
 
-A new Flutter project.
+Mini Project on Flutter for College
 
-## Getting Started
+# Installation
 
-This project is a starting point for a Flutter application.
+1) Download this project and Extract files.
+2) Open the donloaded folder using Android Studio or Visual Code(having Flutter installed)
+3) Now navigate to pubspec.yaml in your editor and then Run flutter Upgrade and then Flutter get
+```dart
+flutter upgrade
+```
+```dart
+flutter get
+```
+4) if you encounter any issues then try flutter doctor
+```dart
+flutter doctor
+```
+5) Then finally run the app using flutter run
+```dart
+flutter run
+```
+7) Thats it!! 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
