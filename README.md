@@ -1,6 +1,7 @@
 # happify_app
 
 Mini Project on Flutter for College
+<img src="https://github.com/Afroz-Shaikh/happify-app/blob/master/t.png" alt="s1" width="300">
 
 
 # License
