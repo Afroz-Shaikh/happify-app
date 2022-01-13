@@ -1,7 +1,19 @@
 # happify_app
 
 Mini Project on Flutter for College
+
 <img src="https://github.com/Afroz-Shaikh/happify-app/blob/master/t.png" alt="s1" width="300">
+
+# 🚀Features
+## Daily mental health tracker 
+## Stats page 
+## Suggested tasks  
+
+
+# 📱Screenshots
+
+#Screenshots 
+<img src="https://github.com/Afroz-Shaikh/happify-app/blob/master/Group%2017.png" alt="s1" width="900">
 
 
 # License
