@@ -12,7 +12,7 @@ Mini Project on Flutter for College
 
 # 📱Screenshots
 
-<img src="https://github.com/Afroz-Shaikh/happify-app/blob/master/Group%2017.png" alt="s1" width="900">
+<img src="https://github.com/Afroz-Shaikh/happify-app/blob/master/Group%2017.png" alt="s1" width="700">
 
 
 # License
